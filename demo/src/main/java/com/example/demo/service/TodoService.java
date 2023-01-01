@@ -51,6 +51,7 @@ public class TodoService {
 
 		final Optional<TodoEntity> original = repository.findById(entity.getId());
 
+		//반환된 엔티티가 존재하면 값을 새 엔티티로 덮어씌운다.
 		original.ifPresent(todo ->{
 			todo.setTitle(entity.getTitle());
 			todo.setDone(entity.isDone());
@@ -61,4 +62,21 @@ public class TodoService {
 
 		return retrieve(entity.getUserId());
 	}
+
+	public List<TodoEntity> delete(final  TodoEntity entity) {
+		validate(entity);
+
+		try {
+			repository.delete(entity);
+		} catch (Exception e) {
+			log.error("error delete entity" + entity.getId(),e);
+
+			throw new RuntimeException("error deleting entity" + entity.getId());
+		}
+
+		return retrieve(entity.getUserId());
+	}
+
+
+
 }
