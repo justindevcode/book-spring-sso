@@ -63,7 +63,7 @@ public class UserController {
 			final  UserDTO responseUserDTO = UserDTO.builder()
 				.username(user.getUsername())
 				.id(user.getId())
-				.tolen(token)
+				.token(token)
 				.build();
 			return ResponseEntity.ok().body(responseUserDTO);
 		} else {
