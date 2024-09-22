@@ -13,16 +13,16 @@ Todo앱으로 기본적인 간단한 애플리케이션입니다. 프론트엔�
 AWS Elastic Beanstalk을 이용한 자동 밸런싱 서버시스템을 구축하며 실제 프로덕션에 가까운 서버를 구현해보았습니다.
 
 # jwt 토큰의 이해
-![KakaoTalk_20240922_180244840](https://github.com/user-attachments/assets/d3f1d06f-0ed0-4528-9aef-295d889c1e50)
+<img src="https://github.com/user-attachments/assets/d3f1d06f-0ed0-4528-9aef-295d889c1e50" width="50%" height="50%">
 jwt토큰을 학습해 유저의 인증인가에대한 보안 문제를 일관성있게 상향 시키도록 하였습니다.     
 
 
 # 스프링부트에서 인증인가 구현을 위한 시큐리티 서블릿필터이해 
-![KakaoTalk_20240922_180244840_02](https://github.com/user-attachments/assets/edf324bb-05f1-4df5-bd8f-a211f7fdaeb8)
+<img src="https://github.com/user-attachments/assets/edf324bb-05f1-4df5-bd8f-a211f7fdaeb8" width="50%" height="50%">
 인증인가 구현을 위해 스프링 부트의 시큐리티를 이용한 서블릿 필터단에서 유저의 인증인가를 구현함으로서 보안에 대한 이해를 증가시켰습니다.  
 
 # 인증인가 구현
-![KakaoTalk_20240922_180244840_01](https://github.com/user-attachments/assets/691eadee-d712-4075-b6c7-fb02459639cc)
+<img src="https://github.com/user-attachments/assets/691eadee-d712-4075-b6c7-fb02459639cc" width="50%" height="50%">
 
 # EC2, 라우트 53, 오토 스케일링 그룹등 서버 구조의 이해
 ec2의 클라우드 서버 컴퓨터를 기반으로 DNS를 통해 도메인 ip매핑을하며 로드밸런서를 통해 트레픽의 분산을 하게되는 구조를 이해하며 이를 AWS Elastic Beanstalk서비스를 이용해 구현할 수 있었습니다.  
