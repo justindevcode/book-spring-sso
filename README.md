@@ -14,11 +14,13 @@ AWS Elastic Beanstalk을 이용한 자동 밸런싱 서버시스템을 구축하
 
 # jwt 토큰의 이해
 <img src="https://github.com/user-attachments/assets/d3f1d06f-0ed0-4528-9aef-295d889c1e50" width="50%" height="50%">  
+
 jwt토큰을 학습해 유저의 인증인가에대한 보안 문제를 일관성있게 상향 시키도록 하였습니다.     
 
 
 # 스프링부트에서 인증인가 구현을 위한 시큐리티 서블릿필터이해 
 <img src="https://github.com/user-attachments/assets/edf324bb-05f1-4df5-bd8f-a211f7fdaeb8" width="50%" height="50%">  
+
 인증인가 구현을 위해 스프링 부트의 시큐리티를 이용한 서블릿 필터단에서 유저의 인증인가를 구현함으로서 보안에 대한 이해를 증가시켰습니다.  
 
 # 인증인가 구현
