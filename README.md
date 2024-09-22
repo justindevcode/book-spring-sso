@@ -7,8 +7,7 @@
 Todo앱으로 기본적인 간단한 애플리케이션입니다. 프론트엔드와 백엔드 서버가 분리된 아키텍처에서 실제 프로덕션에서 애플리케이션을 운영하기 위해 필요한 기술을 습득하기위해 진행하게 되었습니다.  
 
 # :computer: server structure
-
-![스크린샷 2024-04-03 130302](https://github.com/user-attachments/assets/b43b9e81-6a03-49bb-a9e8-192d7a90c9c7)  
+![KakaoTalk_20240922_173500190](https://github.com/user-attachments/assets/8d0187a6-c0f4-4a5f-99f4-c7d4a7f20dae)  
 <img width="778" alt="3 PNG" src="https://github.com/user-attachments/assets/59f3276f-033e-4c30-b118-470924291d82">  
 
 
