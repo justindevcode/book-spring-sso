@@ -10,19 +10,17 @@ Todo앱으로 기본적인 간단한 애플리케이션입니다. 프론트엔�
 # :computer: server structure
 ![KakaoTalk_20240922_173500190](https://github.com/user-attachments/assets/8d0187a6-c0f4-4a5f-99f4-c7d4a7f20dae)  
 <img width="778" alt="3 PNG" src="https://github.com/user-attachments/assets/59f3276f-033e-4c30-b118-470924291d82">  
+AWS Elastic Beanstalk을 이용한 자동 밸런싱 서버시스템을 구축하며 실제 프로덕션에 가까운 서버를 구현해보았습니다.
+
+# jwt 토큰의 이해
+![KakaoTalk_20240922_180244840](https://github.com/user-attachments/assets/d3f1d06f-0ed0-4528-9aef-295d889c1e50)
+jwt토큰을 학습해 유저의 인증인가에대한 보안 문제를 일관성있게 상향 시키도록 하였습니다.     
 
 
+# 스프링부트에서 인증인가 구현을 위한 시큐리티 서블릿필터이해 
+![KakaoTalk_20240922_180244840_02](https://github.com/user-attachments/assets/edf324bb-05f1-4df5-bd8f-a211f7fdaeb8)
+인증인가 구현을 위해 스프링 부트의 시큐리티를 이용한 서블릿 필터단에서 유저의 인증인가를 구현함으로서 보안에 대한 이해를 증가시켰습니다.  
 
+# 인증인가 구현
+![KakaoTalk_20240922_180244840_01](https://github.com/user-attachments/assets/691eadee-d712-4075-b6c7-fb02459639cc)
 
-# DOM 트리 이해
-복잡한 사용자 인터페이스를 효율적으로 구성하고 조작하기 위해 DOM 트리의 구조와 작동 원리를 깊이 있게 이해하였습니다.
-
-# 컴포넌트 개발
-Todo리스트, 로그인페이지등을 재작하면서 재사용 가능한 React 컴포넌트를 설계하고 개발하여 애플리케이션의 유지보수성을 높이고 코드의 모듈성을 강화했습니다.
-
-# CORS 이해
-다양한 출처의 리소스를 안전하게 요청하고 사용하는 방법을 이해함으로써, 보안 문제 없이 외부 API와 효과적으로 통신할 수 있었습니다.
-
-# 로컬 스토리지 사용 및 액세스 토큰 관리
-![KakaoTalk_20240922_174659951](https://github.com/user-attachments/assets/488af024-99b4-4512-a65f-a1099ad21753)  
-액세스 토큰을 로컬 스토리지에 안전하게 저장하고 관리함으로써 사용자 세션의 보안을 강화하고, 애플리케이션의 인증 메커니즘을 효율적으로 처리했습니다. 이는 사용자의 로그인 상태를 안정적으로 유지하면서도 빠른 데이터 접근을 가능하게 합니다.
