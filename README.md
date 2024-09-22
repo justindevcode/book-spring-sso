@@ -3,7 +3,8 @@
 
 # :star: About
 |<img width="943" alt="1 PNG" src="https://github.com/user-attachments/assets/54680484-6ebe-42cb-a856-8ec09efb3f16">|<img width="1250" alt="2 PNG" src="https://github.com/user-attachments/assets/36360a71-7e1e-43e0-835d-71074b28b011">|
-|---|---|
+|---|---|  
+
 Todo앱으로 기본적인 간단한 애플리케이션입니다. 프론트엔드와 백엔드 서버가 분리된 아키텍처에서 실제 프로덕션에서 애플리케이션을 운영하기 위해 필요한 기술을 습득하기위해 진행하게 되었습니다.  
 
 # :computer: server structure
